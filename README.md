@@ -8,7 +8,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 **[Checkout my work here →](./Project_1-Dashboard)**
 
-![Salary Dashboard](./Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![Salary Dashboard](./Recourses/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Salary Analysis
 
@@ -16,4 +16,4 @@ As a former job seeker, I’ve always been surprised by the lack of data explori
 
 **[Checkout my work here →](./Project_2-Analysis)**
 
-![Project Analysis Chart](./Images/2_Project_Analysis_Chart1.png)
+![Project Analysis Chart](./Recourses/2_Project_Analysis_Chart1.png)
