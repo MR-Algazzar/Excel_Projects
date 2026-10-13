@@ -4,7 +4,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 ## Final Dashboard Overview
 
-![Final Salary Dashboard](../Images/1_Salary_Dashboard_Final_Dashboard.gif)
+![Final Salary Dashboard](../Recourses/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ---
 
@@ -14,13 +14,13 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 Filter by specific job titles to examine the median pay distribution across top data industry roles.
 
 **Salary Chart View**  
-![Salary Chart View](../Images/1_Salary_Dashboard_Chart1.png)
+![Salary Chart View](../Recourses/1_Salary_Dashboard_Chart1.png)
 
 **Median Salary & Selection**  
-![Median Salary and Selection](../Images/1_Salary_Dashboard_Job_Title.png)
+![Median Salary and Selection](../Recourses/1_Salary_Dashboard_Job_Title.png)
 
 **Data Source Table**  
-![Data Source Table](../Images/1_Salary_Dashboard_Screenshot1.png)
+![Data Source Table](../Recourses/1_Salary_Dashboard_Screenshot1.png)
 
 ---
 
@@ -28,10 +28,10 @@ Filter by specific job titles to examine the median pay distribution across top 
 Interactive geographic mapping visualizing job listings and market distribution around the world.
 
 **World Map Chart**  
-![World Map Chart](../Images/1_Salary_Dashboard_Chart2.png)
+![World Map Chart](../Recourses/1_Salary_Dashboard_Chart2.png)
 
 **Interactive Map View**  
-![Interactive Map View](../Images/1_Salary_Dashboard_Country_Map%201.gif)
+![Interactive Map View](../Recourses/1_Salary_Dashboard_Country_Map%201.gif)
 
 ---
 
@@ -39,16 +39,16 @@ Interactive geographic mapping visualizing job listings and market distribution 
 Analyze compensation and available job volume across Full-Time, Part-Time, Contractor, and Internship roles.
 
 **Employment Type Breakdown**  
-![Employment Type Breakdown](../Images/1_Salary_Dashboard_Type.png)
+![Employment Type Breakdown](../Recourses/1_Salary_Dashboard_Type.png)
 
 **Dropdown Filter**  
-![Dropdown Filter](../Images/1_Salary_Dashboard_Screenshot3.png)
+![Dropdown Filter](../Recourses/1_Salary_Dashboard_Screenshot3.png)
 
 **Schedule Count Data**  
-![Schedule Count Data](../Images/1_Salary_Dashboard_Screenshot2.png)
+![Schedule Count Data](../Recourses/1_Salary_Dashboard_Screenshot2.png)
 
 **Dropdown View**  
-![Dropdown View](../Images/1_Salary_Dashboard_Data_Validation.gif)
+![Dropdown View](../Recourses/1_Salary_Dashboard_Data_Validation.gif)
 
 ---
 
