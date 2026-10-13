@@ -4,7 +4,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 ## Final Dashboard Overview
 
-![[1_Salary_Dashboard_Final_Dashboard.gif]]
+![Final Salary Dashboard](../Images/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ---
 
@@ -13,42 +13,42 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 ### 1. Job Title & Salary Analysis
 Filter by specific job titles to examine the median pay distribution across top data industry roles.
 
-**Salary Chart View**
-![[1_Salary_Dashboard_Chart1.png]]
+**Salary Chart View**  
+![Salary Chart View](../Images/1_Salary_Dashboard_Chart1.png)
 
-**Median Salary & Selection**
-![[1_Salary_Dashboard_Job_Title.png]]
+**Median Salary & Selection**  
+![Median Salary and Selection](../Images/1_Salary_Dashboard_Job_Title.png)
 
-**Data Source Table**
-![[1_Salary_Dashboard_Screenshot1.png]]
+**Data Source Table**  
+![Data Source Table](../Images/1_Salary_Dashboard_Screenshot1.png)
 
 ---
 
 ### 2. Geographic & Country Distribution
 Interactive geographic mapping visualizing job listings and market distribution around the world.
 
-**World Map Chart**
-![[1_Salary_Dashboard_Chart2.png]]
+**World Map Chart**  
+![World Map Chart](../Images/1_Salary_Dashboard_Chart2.png)
 
-**Interactive Map View**
-![[1_Salary_Dashboard_Country_Map 1.gif]]
+**Interactive Map View**  
+![Interactive Map View](../Images/1_Salary_Dashboard_Country_Map%201.gif)
 
 ---
 
 ### 3. Employment Type & Job Volume Breakdown
 Analyze compensation and available job volume across Full-Time, Part-Time, Contractor, and Internship roles.
 
-**Employment Type Breakdown**
-![[1_Salary_Dashboard_Type.png]]
+**Employment Type Breakdown**  
+![Employment Type Breakdown](../Images/1_Salary_Dashboard_Type.png)
 
-**Dropdown Filter**
-![[1_Salary_Dashboard_Screenshot3.png]]
+**Dropdown Filter**  
+![Dropdown Filter](../Images/1_Salary_Dashboard_Screenshot3.png)
 
-**Schedule Count Data**
-![[1_Salary_Dashboard_Screenshot2.png]]
+**Schedule Count Data**  
+![Schedule Count Data](../Images/1_Salary_Dashboard_Screenshot2.png)
 
-**Dropdown View**
-![[1_Salary_Dashboard_Data_Validation.gif]]
+**Dropdown View**  
+![Dropdown View](../Images/1_Salary_Dashboard_Data_Validation.gif)
 
 ---
 
