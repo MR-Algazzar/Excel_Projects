@@ -46,20 +46,20 @@ The dataset used for this project contains real-world data science job informati
 #### 🔄 Transform
 - Transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
 
-- 📊 **data_jobs_all**
-![[2_Project_Analysis_Screenshot1.png]]
+- 📊 **data_jobs_all**  
+![data_jobs_all transform](../Images/2_Project_Analysis_Screenshot1.png)
 
-- 🛠️ **data_job_skills**
-![[2_Project_Analysis_Screenshot2.png]]
+- 🛠️ **data_job_skills**  
+![data_job_skills transform](../Images/2_Project_Analysis_Screenshot2.png)
 
 #### 🔗 Load
 - Loaded both transformed queries into the workbook, setting the foundation for analysis.
 
-- 📊 **data_jobs_all**
-![[2_Project_Analysis_Screenshot3.png]]
+- 📊 **data_jobs_all**  
+![data_jobs_all load](../Images/2_Project_Analysis_Screenshot3.png)
 
-- 🛠️ **data_job_skills**
-![[2_Project_Analysis_Screenshot4.png]]
+- 🛠️ **data_job_skills**  
+![data_job_skills load](../Images/2_Project_Analysis_Screenshot4.png)
 
 ---
 
@@ -69,7 +69,7 @@ The dataset used for this project contains real-world data science job informati
 - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like **Senior Data Engineer** and **Data Scientist**.
 - 💼 Roles that require fewer skills, like **Business Analyst**, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-![[2_Project_Analysis_Chart1 1.png]]
+![Skills vs Salary Chart](../Images/2_Project_Analysis_Chart1.png)
 
 #### 🤔 So What
 - This trend emphasizes the value of acquiring multiple relevant skills, particularly for individuals aiming for higher-paying roles.
