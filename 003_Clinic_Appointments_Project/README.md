@@ -22,8 +22,8 @@ Before building any visuals or metrics, the raw data underwent a rigorous cleani
 * **String Splitting:** Extracted clean `City` and `Country` attributes from raw `Location` strings using formula logic (`LEFT`, `RIGHT`, and `SEARCH`).
 * **Date & Time Extraction:** Parsed appointment timestamps to isolate `Year`, `Month`, and `Hour` for temporal trend analysis.
 * **Missing Value Handling:** Cleaned invalid or zero-value patient ages into true blanks to preserve accurate statistical averages without dropping valid appointment rows.
-* **Financial Calculations:** Computed net patient billing using structured formula logic: 
-  $$\text{Total\_Bill} = (\text{Consultation\_Fee} + \text{Lab\_Charges}) \times (1 - \text{Insurance\_Coverage})$$
+- **Financial Calculations:** Computed net patient billing using structured formula logic:
+  `Total_Bill = (Consultation_Fee + Lab_Charges) * (1 - Insurance_Coverage)`
 
 ---
 
